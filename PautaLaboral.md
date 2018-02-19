@@ -13,7 +13,6 @@ Para publicar una Oferta Laboral o prácticas en la Comunidad FullStack JS los r
 > **Tipo de Contrato**: ( Firma de Práctica - Honorarios - Por Proyecto - Indefinido )                                                                        
 > **Remuneración Aproximada**: ( OBLIGATORIO ***  Mínino y Máximo a Ofrecer )                                                                                                                      
 > **Correo Electrónico**: ( OBLIGATORIO *** Correo Electrónico donde los postulantes envíen su CV)
-> **Enviar CV con Copia (CC) a**: contacto@gfullstack.org ( OBLIGATORIO *** ) 
 
 PD : Todas las ofertas laborales que no cumplan estos requisitos mínimos o no se respeten los campos OBLIGATORIOS serán eliminadas de la comunidad.
 
